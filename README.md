@@ -12,7 +12,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=lyzsk.profile">
 </p> -->
 
-## **<div align="center">Hi there👋, I'm @lyzsk💕</div>**
+**<h2 align="center">Hi there👋, I'm @lyzsk💕</h2>**
 
 ## Who I am ❓
 
@@ -20,7 +20,7 @@
 -   🌱 a **_println_** debugger
 -   🤔 a **_why does it works_** questioner
 
-## Social media and Contact 📫
+## Social media && Contact 📫
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sichu-huang-11147a239/">
@@ -32,11 +32,17 @@
     <a href="https://www.instagram.com/lyzsk_/?next=%2F">
         <img src="https://img.shields.io/badge/-Instagram-3C415C?style=plastic&logo=instagram&logoColor=E4405F">
     </a>
+    <a href="https://leetcode.com/lyzsk/">
+        <img src="https://img.shields.io/badge/-Leetcode-3C415C?style=plastic&logo=leetcode&logoColor=FFA116">
+    </a>
+    <a href="https://leetcode.cn/u/lyzsk/">
+        <img src="https://img.shields.io/badge/-力扣-3C415C?style=plastic&logo=leetcode&logoColor=FFA116">
+    </a>
     <a href="https://weibo.com/u/3311724935">
-        <img src="https://img.shields.io/badge/-Weibo-3C415C?style=plastic&logo=sinaweibo&logoColor=E6162D">
+        <img src="https://img.shields.io/badge/-微博-3C415C?style=plastic&logo=sinaweibo&logoColor=E6162D">
     </a>
     <a href="https://space.bilibili.com/442935?spm_id_from=333.1007.0.0">
-        <img src="https://img.shields.io/badge/-Bilibili-3C415C?style=plastic&logo=bilibili&logoColor=00A1D6">
+        <img src="https://img.shields.io/badge/-哔哩哔哩-3C415C?style=plastic&logo=bilibili&logoColor=00A1D6">
     </a>
     <a href="https://music.163.com/#/user/home?id=41375538">
         <img src="https://img.shields.io/badge/-网易云-3C415C?style=plastic&logo=applemusic&logoColor=FA243C">
