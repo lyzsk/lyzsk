@@ -14,7 +14,7 @@
 -   🔨 a **_println_** debugger
 -   🤔 a **_why does it works_** questioner
 
-## **<div align="center">🌈Social media && Contact👀</div>**
+## **<div align="center">🤝Social media && Contact💞</div>**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sichu-huang-11147a239/">
