@@ -8,13 +8,13 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=lyzsk.profile">
 <p> -->
 
-## **<div align="center">Hi there👋, I'm @lyzsk💕</div>**
+## **<div align="center">👋Hi there, I'm @lyzsk💕</div>**
 
 -   💬 a **_google oriented_** programmer
--   🌱 a **_println_** debugger
+-   🔨 a **_println_** debugger
 -   🤔 a **_why does it works_** questioner
 
-## Social media && Contact 📫
+## **<div align="center">🌈Social media && Contact👀</div>**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sichu-huang-11147a239/">
