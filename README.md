@@ -21,16 +21,13 @@
         <img src="https://img.shields.io/badge/-Linkedin-3C415C?style=plastic&logo=linkedin&logoColor=0A66C2">
     </a>
     <a href="https://twitter.com/lyzsk_">
-        <img src="https://img.shields.io/badge/-Twitter-3C415C?style=plastic&logo=twitter&logoColor=1DA1F2">
+        <img src="https://img.shields.io/badge/-Twitter-3C415C?style=plastic&logo=x&logoColor=1DA1F2">
     </a>
     <a href="https://www.instagram.com/lyzsk_/?next=%2F">
         <img src="https://img.shields.io/badge/-Instagram-3C415C?style=plastic&logo=instagram&logoColor=E4405F">
     </a>
     <a href="https://leetcode.com/lyzsk/">
         <img src="https://img.shields.io/badge/-Leetcode-3C415C?style=plastic&logo=leetcode&logoColor=FFA116">
-    </a>
-    <a href="https://leetcode.cn/u/lyzsk/">
-        <img src="https://img.shields.io/badge/-力扣-3C415C?style=plastic&logo=leetcode&logoColor=FFA116">
     </a>
     <a href="https://weibo.com/u/3311724935">
         <img src="https://img.shields.io/badge/-微博-3C415C?style=plastic&logo=sinaweibo&logoColor=E6162D">
@@ -45,11 +42,6 @@
         <img src="https://img.shields.io/badge/-Steam-3C415C?style=plastic&logo=steam&logoColor=fff">
     </a>
     <a href="mailto:sumysichu.huang@outlook.com">
-        <img src="https://img.shields.io/badge/-Outlook-3C415C?style=plastic&logo=microsoftoutlook&logoColor=0078D4">
+        <img src="https://img.shields.io/badge/-Outlook-3C415C?style=plastic&logo=mailboxdotorg&logoColor=0078D4">
     </a>
 </p>
-
-<!-- [![Linkedin](https://img.shields.io/badge/-Linkedin-3C415C?style=plastic&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sichu-huang-11147a239/)
-[![Outlook](https://img.shields.io/badge/-Outlook-3C415C?style=plastic&logo=microsoftoutlook&logoColor=0078D4)](mailto:sumysichu.huang@outlook.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-3C415C?style=plastic&logo=twitter&logoColor=1DA1F2)](https://twitter.com/lyzsk_)
-[![Steam](https://img.shields.io/badge/-Steam-3C415C?style=plastic&logo=steam&logoColor=fff)](https://steamcommunity.com/profiles/76561198894107341/) -->
